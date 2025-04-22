@@ -43,5 +43,3 @@ File "game/core/buildings.rpy", line 642, def total military_bouns{}
                         if b in ("military", "spy efficiency"):
                             _total += e}
 ##Defines total_military_bonus and calculates new visible stat
-                            
-           
